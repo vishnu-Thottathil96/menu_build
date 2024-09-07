@@ -48,7 +48,7 @@ class _MenuPageState extends State<MenuPage> {
           backgroundColor: Colors.transparent, // Make the AppBar transparent
           elevation: 0, // Remove AppBar shadow
           title: Text(
-            'k a l a p a n i',
+            'Restaurant Name',
             style: GoogleFonts.aBeeZee(
               textStyle: const TextStyle(
                 fontSize: 24,
